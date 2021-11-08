@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "My Test Application"
 include ':app'
+include ':app:sharemotion'
